@@ -2,10 +2,10 @@
 
 Designing digital products and services requires a process of "Interaction Design" which is a wholly new discipline that moves beyond previous fads of simply making digital things that look like physical world objects. Since there is no known formula for creating great UI/UX we will explore the need to consider interactivity as a design process, moving from initial ethnographic research through ideation and design, and the many steps that lead to final delivery and presentation. Mastery of this process will prepare DMS students to undertake their senior capstone project as well as effectively develop other creative and entrepreneurial ideas/ventures.
 
-- CRN: **nnnnn**
+- CRN: **22463**
 - Course: **DMS 104**
 - Credits: **4.0**
-- Lecture Schedule: **DOW and DOW, nn:nn xM to nn:nn xM**
+- Lecture Schedule: **Tuesdays and Thursdays, 12:30 to 1:45 PM**
 - Building: **Rettner Hall**
 - Room: **307**
 
@@ -16,8 +16,8 @@ Designing digital products and services requires a process of "Interaction Desig
 
 ### Office Hours
 
-- **Virtual Office Hours:** for technical help, the professor will be online, answering questions via [Slack](https://csc170.slack.com/), in the **#help** channel.  Students can leave questions at any time.  The professor, TAs, and other students will answer as quickly as possible
-- **Regular Office Hours:** for *non-technical help*, the professor will be in his office in Morey 313, DOW and DOW at nn:nn to nn:nn xM.
+- **Virtual Office Hours:** for technical help, the professor will be online, answering questions via [Slack](https://dms104.slack.com/), in the **#help** channel.  Students can leave questions at any time.  The professor, TAs, and other students will answer as quickly as possible
+- **Regular Office Hours:** for *non-technical help*, the professor will be in his office in Morey 313, Monday, Wednesday, and Friday between 1:30 and 2:30 PM.
 
 ## Communication
 

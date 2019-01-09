@@ -7,10 +7,10 @@ Design in the Digital Age
 <hr>
 
 - Current topic
-  - 
+  - Introduction and Overview of the Course
 
 - Current assignments you should be working on
-  - 
+  - Assignment 1: Team Role Presentation
 
 <hr>
 
