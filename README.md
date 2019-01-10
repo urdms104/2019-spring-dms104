@@ -1,4 +1,4 @@
-# Course Documentation
+# DMS 104 Course Documentation
 Design in the Digital Age
 
 - [Syllabus](syllabus.md)
