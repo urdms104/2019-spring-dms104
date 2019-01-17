@@ -1,35 +1,35 @@
 # Schedule
 This schedule is subject to modification throughout the semester. Always check with your instructor if you have any questions.
 
-| Date                        | Activity                                | Notes |
-| --------------------------- | --------------------------------------- | ----- |
-| Thursday, January 17, 2019  | Introduction and Overview of the Course |       |
-| Tuesday, January 22, 2019   | Team Development                        |       |
-| Thursday, January 24, 2019  | Idea Generation and Selection           |       |
-| Tuesday, January 29, 2019   | Marketing Requirements Document (MRD)   |       |
-| Thursday, January 31, 2019  | MRD Presentations, part 1               |       |
-| Tuesday, February 5, 2019   | MRD Presentations, part 2               |       |
-| Thursday, February 7, 2019  | Research Overview                       |       |
-| Tuesday, February 12, 2019  | Stakeholder Planning                    |       |
-| Thursday, February 14, 2019 | Research Prep                           |       |
-| Tuesday, February 19, 2019  | Focus Groups, part 1                    |       |
-| Thursday, February 21, 2019 | Focus Groups, part 2                    |       |
-| Tuesday, February 26, 2019  | Modeling and Personas                   |       |
-| Thursday, February 28, 2019 | User & Domain Analysis (U&DA)           |       |
-| Tuesday, March 5, 2019      | MIDTERM REVIEW                          |       |
-| Thursday, March 7, 2019     | MIDTERM EXAM                            |       |
-| Tuesday, March 12, 2019     | Spring recess                           |       |
-| Thursday, March 14, 2019    | Spring recess                           |       |
-| Tuesday, March 19, 2019     | Requirements and Context Scenarios      |       |
-| Thursday, March 21, 2019    | Requirements Workshop                   |       |
-| Tuesday, March 26, 2019     | Framework & Design Language             |       |
-| Thursday, March 28, 2019    | Form & Behavior Specification (F&BS)    |       |
-| Tuesday, April 2, 2019      | Detailed Design                         |       |
-| Thursday, April 4, 2019     | Tools Workshop                          |       |
-| Tuesday, April 9, 2019      | Open Lab                                |       |
-| Thursday, April 11, 2019    | Open Lab                                |       |
-| Tuesday, April 16, 2019     | Final Presentations, part 1             |       |
-| Thursday, April 18, 2019    | Final Presentations, part 2             |       |
-| Tuesday, April 23, 2019     | Final Presentations, part 3             |       |
-| Thursday, April 25, 2019    | FINAL REVIEW                            |       |
-| Tuesday, April 30, 2019     | FINAL EXAM                              |       |
+| Date                        | Activity                                    | Assignments                                                  | Notes                                                        |
+| --------------------------- | ------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Thursday, January 17, 2019  | **Introduction and Overview of the Course** | [Assignment 1: Team Role Presentation](assignment01-team-role-presentation/instructions.md) (due: Tuesday, January 22) | [Introduction (PDF)](01-introduction/introduction.pdf) and [Presentation Rules (PDF)](01-introduction/presentation-rules.pdf) |
+| Tuesday, January 22, 2019   | Team Presentations                          |                                                              |                                                              |
+| Thursday, January 24, 2019  | Idea Generation and Selection               |                                                              |                                                              |
+| Tuesday, January 29, 2019   | Marketing Requirements Document (MRD)       |                                                              |                                                              |
+| Thursday, January 31, 2019  | MRD Presentations, part 1                   |                                                              |                                                              |
+| Tuesday, February 5, 2019   | MRD Presentations, part 2                   |                                                              |                                                              |
+| Thursday, February 7, 2019  | Research Overview                           |                                                              |                                                              |
+| Tuesday, February 12, 2019  | Stakeholder Planning                        |                                                              |                                                              |
+| Thursday, February 14, 2019 | Research Prep                               |                                                              |                                                              |
+| Tuesday, February 19, 2019  | Focus Groups, part 1                        |                                                              |                                                              |
+| Thursday, February 21, 2019 | Focus Groups, part 2                        |                                                              |                                                              |
+| Tuesday, February 26, 2019  | Modeling and Personas                       |                                                              |                                                              |
+| Thursday, February 28, 2019 | User & Domain Analysis (U&DA)               |                                                              |                                                              |
+| Tuesday, March 5, 2019      | MIDTERM REVIEW                              |                                                              |                                                              |
+| Thursday, March 7, 2019     | MIDTERM EXAM                                |                                                              |                                                              |
+| Tuesday, March 12, 2019     | Spring recess                               |                                                              |                                                              |
+| Thursday, March 14, 2019    | Spring recess                               |                                                              |                                                              |
+| Tuesday, March 19, 2019     | Requirements and Context Scenarios          |                                                              |                                                              |
+| Thursday, March 21, 2019    | Requirements Workshop                       |                                                              |                                                              |
+| Tuesday, March 26, 2019     | Framework & Design Language                 |                                                              |                                                              |
+| Thursday, March 28, 2019    | Form & Behavior Specification (F&BS)        |                                                              |                                                              |
+| Tuesday, April 2, 2019      | Detailed Design                             |                                                              |                                                              |
+| Thursday, April 4, 2019     | Tools Workshop                              |                                                              |                                                              |
+| Tuesday, April 9, 2019      | Open Lab                                    |                                                              |                                                              |
+| Thursday, April 11, 2019    | Open Lab                                    |                                                              |                                                              |
+| Tuesday, April 16, 2019     | Final Presentations, part 1                 |                                                              |                                                              |
+| Thursday, April 18, 2019    | Final Presentations, part 2                 |                                                              |                                                              |
+| Tuesday, April 23, 2019     | Final Presentations, part 3                 |                                                              |                                                              |
+| Thursday, April 25, 2019    | FINAL REVIEW                                |                                                              |                                                              |
+| Tuesday, April 30, 2019     | FINAL EXAM                                  |                                                              |                                                              |
