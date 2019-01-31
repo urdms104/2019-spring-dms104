@@ -3,6 +3,7 @@ Design in the Digital Age
 
 - [Syllabus](syllabus.md)
 - [Schedule](schedule.md)  &lArr; here be: slides, assignments, and related links
+- [Book Overview](book-overview.md)
 
 <hr>
 
@@ -10,7 +11,7 @@ Design in the Digital Age
 
   - **Research Overview**
 - Current assignments you should be working on (for next time)
-  - 
+  - Read for detail in Chapter 5; prepare for Stakeholder Interviews (Tuesday, February 5)
 
 <hr>
 
