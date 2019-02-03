@@ -4,6 +4,7 @@ Design in the Digital Age
 - [Syllabus](syllabus.md)
 - [Schedule](schedule.md)  &lArr; here be: slides, assignments, and related links
 - [Book Overview](book-overview.md)
+- [Marketing Requirements Documents (MRDs)](marketing-requirements-documents/readme.md)
 
 <hr>
 
