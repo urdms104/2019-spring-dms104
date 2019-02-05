@@ -10,21 +10,23 @@ Design in the Digital Age
 
 - Current topic
 
-  - **Research Overview**
+  - **06. Stakeholder Interviews, part 1**
 - Current assignments you should be working on (for next time)
-  - Read for detail in Chapter 5; prepare for Stakeholder Interviews (Tuesday, February 5)
+  - Prepare for Stakeholder Interviews (Tuesday, Feb. 5, and Thursday, Feb 7)
 
 <hr>
 
 - Previous topics
 
-  - **Idea Proposals**
-  - **Design Project Idea Guidelines**
-  - **Individual Presentations**
-  - **Introduction and Overview of the Course**
+  - **05. Research Overview**
+  - **04. Idea Proposals**
+  - **03. Design Project Idea Guidelines**
+  - **02. Individual Presentations**
+  - **01. Introduction and Overview of the Course**
 - Previous assignments
 
+  - Read for detail in Chapter 5; prepare for Stakeholder Interviews 
   - Keep an eye on [our Workspace in Slack (link)](https://dms104.slack.com) for team formation instructions
   - Read about the *Marketing Requirements Document* (MRD), chapter 3, p35-39
-  - [Assignment 1: Team Role Presentation](assignment01-team-role-presentation/instructions.md) (includes reading chapter 2, due: Tuesday, January 22)
+  - [Assignment 1: Team Role Presentation](assignment01-team-role-presentation/instructions.md) (includes reading chapter 2)
   - Read Chapter 2: Assembling the Team; focus on the five team roles
