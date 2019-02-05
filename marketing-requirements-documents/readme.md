@@ -22,4 +22,3 @@
 - [**Laundry Manager** (MRD)](laundry-manager.md)
   - Washer/Dryer interface for college environments
   - City-Team: **Istanbul**
-
