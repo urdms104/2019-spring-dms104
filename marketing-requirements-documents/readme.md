@@ -19,6 +19,7 @@
 - **Goergen Hub** (coming soon)
   - Information Touch Screen Kiosk
   - City-Team: **Phoenix**
-- **Laundry Manager** (coming soon)
-  - Washer/Dryer interface, local and remote
+- [**Laundry Manager** (MRD)](laundry-manager.md)
+  - Washer/Dryer interface for college environments
   - City-Team: **Istanbul**
+
