@@ -13,11 +13,11 @@
   - Suite of devices to find wide array of lost things
   - City-Team: **Philadelphia**
 
-- **Card Swiping System** (coming soon)
-  - Attendance; room usage; more
+- [**Digital Valet** (MRD)](digital-valet.md)
+  - Full length mirror with sensors and AI to help make decisions about clothes
   - City-Team: **Toronto**
-- **Goergen Hub** (coming soon)
-  - Information Touch Screen Kiosk
+- [**Digital Valet** (MRD)](digital-valet.md)
+  - Full length mirror with sensors and AI to help make decisions about clothes
   - City-Team: **Phoenix**
 - [**Laundry Manager** (MRD)](laundry-manager.md)
   - Washer/Dryer interface for college environments
