@@ -10,14 +10,15 @@ Design in the Digital Age
 
 - Current topic
 
-  - **06. Stakeholder Interviews, part 1**
+  - **07. Research Planning** and Stakeholder Meetings, part 2
 - Current assignments you should be working on (for next time)
-  - Prepare for Stakeholder Interviews (Tuesday, Feb. 5, and Thursday, Feb 7)
+  - Have a Focus Group Plan, read to review (due: Tuesday, February 12)
 
 <hr>
 
 - Previous topics
 
+  - **06. Stakeholder Interviews, part 1**
   - **05. Research Overview**
   - **04. Idea Proposals**
   - **03. Design Project Idea Guidelines**
