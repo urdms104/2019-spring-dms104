@@ -61,11 +61,16 @@ The set-back schedule for the design, development, manufacturing and delivery of
 
 ## Understanding of the Problem
 
- 
+The Digital Valet opportunity is based on the growing market of white-collar professionals with disposable income, primarily older adults who value their time, and are also concerned about their appearance.  The social implications of how one dresses is a constant concern.  It is supposed to look effortless, however they know that maintaining a wardrobe takes time and considerable effort.  
+
+Furthermore, maintenance mistakes can be costly.  Remembering when to have certain clothes dry cleaned; making sure one does not over-wear one item too many times in a row; all this can lead to items wearing out prematurely, leading to more purchases.
+
+**The challenge will be for the design team** to create simple-enough system that is more easy to use than to try and manage a wardrobe oneself.  The goal of the product is to stop worrying and learn to trust the Digital Valet.
 
 ## Willingness to Invest
 
-
+The Digital Valet product would be a luxury product.  Everyone, short of the super rich, does very well without a real valet to pick and layout their clothes.  But the next best thing, a *digital* valet would be an extravagance that people would want as an indulgence.  Therefore, the design and look & feel, of the Digital Valet product needs to be *high end* to further the illusion of lavishness.  I.e., *no expense spared* should drive the design decisions.
 
 ## Risk Factors
 
+Most of the risk in the development of the Digital Valet is on the software development team.  The success of the product depends on the reliability of the AI functionality.  But beyond that, the look & feel of the product, and the simplicity of the workflow when the user engages it is vital to creating an emotional connection between the user and their "personal" valet.  Without the ability of the user to completely trust the Digital Valet, the product would fail.
