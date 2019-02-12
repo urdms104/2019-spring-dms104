@@ -12,7 +12,7 @@ Design in the Digital Age
 
   - **08. Focus Group Planning**
 - Current assignments you should be working on (for next time)
-  - 
+  - Be prepared for Thursday: three city-teams will volunteer (or prof will randomly select) to conduct focus groups on Thursday
 
 <hr>
 
