@@ -10,14 +10,15 @@ Design in the Digital Age
 
 - Current topic
 
-  - **07. Research Planning** and Stakeholder Meetings, part 2
+  - **08. Focus Group Planning**
 - Current assignments you should be working on (for next time)
-  - Have a Focus Group Plan, read to review (due: Tuesday, February 12)
+  - 
 
 <hr>
 
 - Previous topics
 
+  - **07. Research Planning** and Stakeholder Meetings, part 2
   - **06. Stakeholder Interviews, part 1**
   - **05. Research Overview**
   - **04. Idea Proposals**
@@ -26,6 +27,7 @@ Design in the Digital Age
   - **01. Introduction and Overview of the Course**
 - Previous assignments
 
+  - Have a Focus Group Plan, ready to review (due: Tuesday, February 12)
   - Read for detail in Chapter 5; prepare for Stakeholder Interviews 
   - Keep an eye on [our Workspace in Slack (link)](https://dms104.slack.com) for team formation instructions
   - Read about the *Marketing Requirements Document* (MRD), chapter 3, p35-39
