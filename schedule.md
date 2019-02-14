@@ -1,4 +1,4 @@
-# Schedule
+# **Schedule**
 This schedule is subject to modification throughout the semester. Always check with your instructor if you have any questions.
 
 | Date                        | Activity                                                   | Notes                                                        | Assignment for next time                                     |
@@ -10,8 +10,8 @@ This schedule is subject to modification throughout the semester. Always check w
 | Thursday, January 31, 2019  | **05. Research Overview**                                  | [Chapter 4 and 5 Summary (PDF)](05-research-overview/chapter-4-and-5-summary.pdf)<br><br>[Sunsoft Values Compass (PDF)](05-research-overview/sunsoft-values-compass.pdf)<br><br>See the [Book Overview](book-overview.md) | Read for detail in Chapter 5<br><br>For Tuesday, February 5: prepare...<br>- Each team (one at a time) will interview the stakeholder(s)<br>- 10 minutes each<br>- Each team needs to prepare second-level questions |
 | Tuesday, February 5, 2019   | **06. Stakeholder Interviews, part 1**                     | Be prepared to take notes (whatever stakeholders say is rule!)<br><br>[Video of the Stakeholder Meetings (YouTube)](https://youtu.be/Vmj4iEbLcr0) |                                                              |
 | Thursday, February 7, 2019  | **07. Research Planning** and Stakeholder Meetings, part 2 | Take notes; prepare a Focus Group Plan<br><br>[Chapter 6,-7, and 9 summary (PDF)](07-research-planning/chapter-6-7-9-summary.pdf) | Have a Focus Group Plan, ready to review (due: Tuesday, February 12) |
-| Tuesday, February 12, 2019  | **Focus Group Planning**                                   | [Focus Groups (PDF)](08-focus-group-planning/focus-groups.pdf) | Be prepared for Thursday: three city-teams will volunteer (or prof will randomly select) to conduct focus groups on Thursday |
-| Thursday, February 14, 2019 | Focus Group Meetings                                       |                                                              |                                                              |
+| Tuesday, February 12, 2019  | **08. Focus Group Planning**                               | [Focus Groups (PDF)](08-focus-group-planning/focus-groups.pdf) | Be prepared for Thursday: three city-teams will volunteer (or prof will randomly select) to conduct focus groups on Thursday |
+| Thursday, February 14, 2019 | **09. Focus Group Meetings**                               | [Rubric that'll be used for grading each city-team (PDF)](09-focus-group-meetings/focus-group-rubric.pdf) |                                                              |
 | Tuesday, February 19, 2019  | Research Status Presentation                               |                                                              |                                                              |
 | Thursday, February 21, 2019 | Modeling and Personas                                      |                                                              |                                                              |
 | Tuesday, February 26, 2019  | Modeling and Personas (cont'd)                             |                                                              |                                                              |
