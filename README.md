@@ -10,14 +10,16 @@ Design in the Digital Age
 
 - Current topic
 
-  - **09. Focus Group Meetings**
+  - **10. Focus Group Meetings 2**
 - Current assignments you should be working on (for next time)
-  - Continue studying: Chapters 6, 7, and 9 (required for Research Phase)
+
+  - [Assignment 2: Research Plan](assignment02-research-plan/instructions.md) (due: Thursday February 21)
 
 <hr>
 
 - Previous topics
 
+  - **09. Focus Group Meetings 1**
   - **08. Focus Group Planning**
   - **07. Research Planning** and Stakeholder Meetings, part 2
   - **06. Stakeholder Interviews, part 1**
@@ -28,6 +30,7 @@ Design in the Digital Age
   - **01. Introduction and Overview of the Course**
 - Previous assignments
 
+  - Continue studying: Chapters 6, 7, and 9 (required for Research Phase)
   - Be prepared: city-teams to conduct focus groups
   - Have a Focus Group Plan, ready to review (due: Tuesday, February 12)
   - Read for detail in Chapter 5; prepare for Stakeholder Interviews 
