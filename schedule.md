@@ -1,4 +1,4 @@
-# **Schedule**
+# ****Schedule****
 This schedule is subject to modification throughout the semester. Always check with your instructor if you have any questions.
 
 | Date                        | Activity                                                   | Notes                                                        | Assignment for next time                                     |
@@ -13,7 +13,7 @@ This schedule is subject to modification throughout the semester. Always check w
 | Tuesday, February 12, 2019  | **08. Focus Group Planning**                               | [Focus Groups (PDF)](08-focus-group-planning/focus-groups.pdf) | Be prepared for Thursday: three city-teams will volunteer (or prof will randomly select) to conduct focus groups on Thursday |
 | Thursday, February 14, 2019 | **09. Focus Group Meetings 1**                             | [Rubric that'll be used for grading each city-team (PDF)](09-focus-group-meetings/focus-group-rubric.pdf) |                                                              |
 | Tuesday, February 19, 2019  | **10. Focus Group Meetings 2**                             |                                                              | [Assignment 2: Research Plan](assignment02-research-plan/instructions.md) (due: Thursday February 21) |
-| Thursday, February 21, 2019 | Research Plan Review                                       |                                                              |                                                              |
+| Thursday, February 21, 2019 | **11. Research Plan Review**                               | [Rubric that'll be used for grading each city-team (PDF)](11-research-prep-review/research-plan-rubric.pdf) |                                                              |
 | Tuesday, February 26, 2019  | Modeling and Personas                                      |                                                              |                                                              |
 | Thursday, February 28, 2019 | User & Domain Analysis (U&DA)                              |                                                              |                                                              |
 | Tuesday, March 5, 2019      | MIDTERM REVIEW                                             |                                                              |                                                              |
