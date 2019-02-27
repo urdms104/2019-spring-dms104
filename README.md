@@ -10,15 +10,16 @@ Design in the Digital Age
 
 - Current topic
 
-  - **12. Modeling and Personas**
+  - **13. Interview Plan Review**
 - Current assignments you should be working on (for next time)
 
-  - Prepare for Interview Checkpoint on Thursday, February 28
+  - Conduct user interviews and other research
 
 <hr>
 
 - Previous topics
 
+  - **12. Modeling and Personas**
   - **11. Research Plan Review**
   - **10. Focus Group Meetings 2**
   - **09. Focus Group Meetings 1**
@@ -32,6 +33,7 @@ Design in the Digital Age
   - **01. Introduction and Overview of the Course**
 - Previous assignments
 
+  - Prepare for Interview Checkpoint on Thursday, February 28
   - [Assignment 2: Research Plan](assignment02-research-plan/instructions.md) (due: Thursday February 21)
   - Continue studying: Chapters 6, 7, and 9 (required for Research Phase)
   - Be prepared: city-teams to conduct focus groups
