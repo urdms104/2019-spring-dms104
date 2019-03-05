@@ -1,4 +1,4 @@
-# Assignment 2: Research Plan
+# Assignment 3: Research Plan
 
 ***Due: Thursday, February 21, 2018 (before 12:30 PM)***<br>
 
@@ -56,4 +56,4 @@ In the document, report:
 
   Note: you can (probably) use a Google Doc to construct your document, but the professor needs a snapshot of your document - *not* your Google Doc, because it can be updated while he's trying to grade it!  So please export whatever you use to: **Microsoft Word** and turn *that* in on Blackboard.
 
-  Submit your team's document in our DMS 104 section in Blackboard, in the Assignments area: **Assignment 2: Research Plan**
+  Submit your team's document in our DMS 104 section in Blackboard, in the Assignments area: **Assignment 3: Research Plan**
