@@ -10,15 +10,16 @@ Design in the Digital Age
 
 - Current topic
 
-  - **14. MIDTERM REVIEW**
-- Current assignments you should be working on (for next time)
+  - **15. Midterm Exam**
+- Current assignments you should be working on
 
-  - Conduct user interviews and other research
+  - Conduct user interviews and other research (due: Tuesday, March 19)
 
 <hr>
 
 - Previous topics
 
+  - **14. MIDTERM REVIEW**
   - **13. Interview Plan Review**
   - **12. Modeling and Personas**
   - **11. Research Plan Review**
