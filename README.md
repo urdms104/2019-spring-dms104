@@ -10,15 +10,16 @@ Design in the Digital Age
 
 - Current topic
 
-  - **15. Midterm Exam**
+  - **16. Modeling Workshop** and Midterm Exam Review
 - Current assignments you should be working on
 
-  - Conduct user interviews and other research (due: Tuesday, March 19)
+  - 
 
 <hr>
 
 - Previous topics
 
+  - **15. Midterm Exam**
   - **14. MIDTERM REVIEW**
   - **13. Interview Plan Review**
   - **12. Modeling and Personas**
@@ -35,6 +36,7 @@ Design in the Digital Age
   - **01. Introduction and Overview of the Course**
 - Previous assignments
 
+  - Conduct user interviews and other research (due: Tuesday, March 19)
   - Prepare for Interview Checkpoint on Thursday, February 28
   - [Assignment 3: Research Plan](assignment03-research-plan/instructions.md) (due: Thursday February 21)
   - Continue studying: Chapters 6, 7, and 9 (required for Research Phase)
