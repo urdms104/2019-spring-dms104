@@ -13,7 +13,8 @@ Design in the Digital Age
   - **16. Modeling Workshop** and Midterm Exam Review
 - Current assignments you should be working on
 
-  - 
+  - Gather all research notes and artifacts (for the Modeling Workshop)
+  - Read Chapter 12: Defining Requirements (for Thursday, March 20)
 
 <hr>
 
