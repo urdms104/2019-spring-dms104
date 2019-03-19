@@ -10,7 +10,7 @@ Design in the Digital Age
 
 - Current topic
 
-  - **16. Modeling Workshop** and Midterm Exam Review
+  - **16. Modeling Workshop**
 - Current assignments you should be working on
 
   - Gather all research notes and artifacts (for the Modeling Workshop)
