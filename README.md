@@ -10,16 +10,16 @@ Design in the Digital Age
 
 - Current topic
 
-  - **16. Modeling Workshop**
+  - **17. Requirements Workshop**
 - Current assignments you should be working on
 
-  - Gather all research notes and artifacts (for the Modeling Workshop)
-  - Read Chapter 12: Defining Requirements (for Thursday, March 20)
+  - Read Chapter 13: User & Domain Analysis; start work on the U&DA document
 
 <hr>
 
 - Previous topics
 
+  - **16. Modeling Workshop**
   - **15. Midterm Exam**
   - **14. MIDTERM REVIEW**
   - **13. Interview Plan Review**
