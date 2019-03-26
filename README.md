@@ -13,7 +13,7 @@ Design in the Digital Age
   - **18. User & Domain Analysis Planning**
 - Current assignments you should be working on
 
-  - 
+  - [Project 2: User & Domain Analysis](project02-u&da/instructions.md) (due: Tuesday, April 2)
 
 <hr>
 
