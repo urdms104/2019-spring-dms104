@@ -10,15 +10,16 @@ Design in the Digital Age
 
 - Current topic
 
-  - **17. Requirements Workshop**
+  - **18. User & Domain Analysis Planning**
 - Current assignments you should be working on
 
-  - Read Chapter 13: User & Domain Analysis; start work on the U&DA document
+  - 
 
 <hr>
 
 - Previous topics
 
+  - **17. Requirements Workshop**
   - **16. Modeling Workshop**
   - **15. Midterm Exam**
   - **14. MIDTERM REVIEW**
@@ -37,12 +38,13 @@ Design in the Digital Age
   - **01. Introduction and Overview of the Course**
 - Previous assignments
 
-  - Conduct user interviews and other research (due: Tuesday, March 19)
+  - Read Chapter 13: User & Domain Analysis; start work on the U&DA document
+  - Conduct user interviews and other research
   - Prepare for Interview Checkpoint on Thursday, February 28
-  - [Assignment 3: Research Plan](assignment03-research-plan/instructions.md) (due: Thursday February 21)
+  - [Assignment 3: Research Plan](assignment03-research-plan/instructions.md) 
   - Continue studying: Chapters 6, 7, and 9 (required for Research Phase)
   - Be prepared: city-teams to conduct focus groups (Assignment 2)
-  - Have a Focus Group Plan, ready to review (due: Tuesday, February 12)
+  - Have a Focus Group Plan, ready to review 
   - Read for detail in Chapter 5; prepare for Stakeholder Interviews 
   - Keep an eye on [our Workspace in Slack (link)](https://dms104.slack.com) for team formation instructions
   - Read about the *Marketing Requirements Document* (MRD), chapter 3, p35-39
