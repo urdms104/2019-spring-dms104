@@ -10,7 +10,7 @@ Design in the Digital Age
 
 - Current topic
 
-  - **18. User & Domain Analysis Planning**
+  - **19. Framework & Design Language, part 1**
 - Current assignments you should be working on
 
   - [Project 2: User & Domain Analysis](project02-u&da/instructions.md) (due: Tuesday, April 2)
@@ -19,6 +19,7 @@ Design in the Digital Age
 
 - Previous topics
 
+  - **18. User & Domain Analysis Planning**
   - **17. Requirements Workshop**
   - **16. Modeling Workshop**
   - **15. Midterm Exam**
