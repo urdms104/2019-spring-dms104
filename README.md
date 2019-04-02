@@ -10,15 +10,16 @@ Design in the Digital Age
 
 - Current topic
 
-  - **19. Framework & Design Language, part 1**
+  - **20. Framework & Design Language, part 2**
 - Current assignments you should be working on
 
-  - [Project 2: User & Domain Analysis](project02-u&da/instructions.md) (due: Tuesday, April 2)
+  - Prepare for Stakeholder Meetings (Thursday, April 4)
 
 <hr>
 
 - Previous topics
 
+  - **19. Framework & Design Language, part 1**
   - **18. User & Domain Analysis Planning**
   - **17. Requirements Workshop**
   - **16. Modeling Workshop**
@@ -39,6 +40,7 @@ Design in the Digital Age
   - **01. Introduction and Overview of the Course**
 - Previous assignments
 
+  - [Project 2: User & Domain Analysis](project02-u&da/instructions.md) 
   - Read Chapter 13: User & Domain Analysis; start work on the U&DA document
   - Conduct user interviews and other research
   - Prepare for Interview Checkpoint on Thursday, February 28
