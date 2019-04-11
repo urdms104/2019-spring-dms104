@@ -10,15 +10,16 @@ Design in the Digital Age
 
 - Current topic
 
-  - **22. Checkpoint: Framework and Design Language**
+  - **23. Design Vision**
 - Current assignments you should be working on
 
-  - Continue work on the *Framework and Design Language* (needed for F&BS due Tuesday, April 16)
+  - [Project 3: Design Vision](project03-design-vision/instructions.md) (due: Tuesday, April 16)
 
 <hr>
 
 - Previous topics
 
+  - **22. Checkpoint: Framework and Design Language**
   - **21. Stakeholder Meetings**
   - **20. Framework & Design Language, part 2**
   - **19. Framework & Design Language, part 1**
