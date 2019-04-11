@@ -13,7 +13,7 @@ Design in the Digital Age
   - **23. Design Vision**
 - Current assignments you should be working on
 
-  - [Project 3: Design Vision](project03-design-vision/instructions.md) (due: Tuesday, April 16)
+  - [Project 3: Design Vision](project03-design-vision/instructions.md) (due: Thursday, April 18)
 
 <hr>
 
