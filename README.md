@@ -10,7 +10,7 @@ Design in the Digital Age
 
 - Current topic
 
-  - **23. Design Vision**
+  - **24. Design Vision Review** (optional)
 - Current assignments you should be working on
 
   - [Project 3: Design Vision](project03-design-vision/instructions.md) (due: Thursday, April 18)
@@ -19,6 +19,7 @@ Design in the Digital Age
 
 - Previous topics
 
+  - **23. Design Vision**
   - **22. Checkpoint: Framework and Design Language**
   - **21. Stakeholder Meetings**
   - **20. Framework & Design Language, part 2**
