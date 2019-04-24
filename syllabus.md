@@ -90,8 +90,8 @@ Outside of the classroom sessions, students need to: read/study assigned section
 | Activity                                                     | Weight of the final grade                                    |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | **Participation and Checkpoint Deliverables**  All along the process of design there will be opportunities to submit "checkpoint deliverables" and to participate in workshop activities that will keep the design teams on track for successful project delivery. | **20%** There will be multiple opportunities for students in teams and as individuals to get credit for their ongoing work in support of the major deliverables in the course. |
-| **Project** Students will design an interactive digital product in four phases over the course of the semester<br>Phase 1 - Marketing Requirements<br/>Phase 2 - User and Domain Analysis<br/>Phase 3 - Design Vision<br/>Phase 4 - Form & Behavior Specification (Detailed Design) | **50%** The four phases of the design process will require students to work in a team to deliver the phase documents <br/>5%<br/>15%<br/>15%<br/>15% |
-| **Exams**<br/>Midterm<br/>Final                              | **30%**<br/>15%<br/>15%                                      |
+| **Project** Students will design an interactive digital product in four phases over the course of the semester<br>Phase 1 - Marketing Requirements<br/>Phase 2 - User and Domain Analysis<br/>Phase 3 - Design Vision<br/>Phase 4 - Form & Behavior Specification (Detailed Design) | **<s>50%</s> 65%** The four phases of the design process will require students to work in a team to deliver the phase documents <br/>5%<br/><s>15%</s> 20%<br/><s>15%</s> 20%<br/><s>15%</s> 20% |
+| **Exams**<br/>Midterm<br/><s>Final</s>                       | **<s>30%</s> 15%**<br/>15%<br/><s>15%</s>                    |
 
 ### Due Dates
 

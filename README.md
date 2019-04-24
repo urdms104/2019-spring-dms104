@@ -10,15 +10,16 @@ Design in the Digital Age
 
 - Current topic
 
-  - **25. Design Vision Presentations, part 1**
+  - **26. Design Vision Presentations, part 2**
 - Current assignments you should be working on
 
-  - [Project 3: Design Vision](project03-design-vision/instructions.md) (due: Thursday, April 18)
+  - Form & Behavior Specification (coming soon)
 
 <hr>
 
 - Previous topics
 
+  - **25. Design Vision Presentations, part 1**
   - **24. Design Vision Review**
   - **23. Design Vision**
   - **22. Checkpoint: Framework and Design Language**
@@ -45,6 +46,7 @@ Design in the Digital Age
   - **01. Introduction and Overview of the Course**
 - Previous assignments
 
+  - [Project 3: Design Vision](project03-design-vision/instructions.md) (due: Thursday, April 18)
   - Prepare to present Framework and Design Language drafts on Tuesday, April 9
   - Prepare for Stakeholder Meetings on Thursday, April 4
   - [Project 2: User & Domain Analysis](project02-u&da/instructions.md) 
