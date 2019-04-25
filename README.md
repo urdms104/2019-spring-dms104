@@ -10,7 +10,8 @@ Design in the Digital Age
 
 - Current topic
 
-  - **26. Design Vision Presentations, part 2**
+  - **27. Form & Behavior Specification (F&BS)**
+
 - Current assignments you should be working on
 
   - Form & Behavior Specification (coming soon)
@@ -19,6 +20,7 @@ Design in the Digital Age
 
 - Previous topics
 
+  - **26. Design Vision Presentations, part 2**
   - **25. Design Vision Presentations, part 1**
   - **24. Design Vision Review**
   - **23. Design Vision**
