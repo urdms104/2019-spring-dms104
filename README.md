@@ -14,7 +14,7 @@ Design in the Digital Age
 
 - Current assignments you should be working on
 
-  - Form & Behavior Specification (coming soon)
+  - [Project 4: Form and Behavior Specification](project04-f&bs/instructions.md) (due: Friday, May 10)
 
 <hr>
 
